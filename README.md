@@ -2,14 +2,14 @@
 
 ## What is the purpose of this Repository?
 
-It is my personal collection of scripts that I created while learning SQL and will contain SQL scripts written in various databases.
-Along the way, there will be updates on the folder structure and groupping of the files in the repository, but for now it will serve as a collection folder.  
+It is my personal collection of scripts that I have created while learning SQL. It contains SQL scripts written in self created and sample databases from the Web like [Adventure Works Sample Databases](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks).
+Along the way, there will be updates on the folder structure and groupping of the files in the repository, but for now it will serve as a collection folder with a simple folder structure.  
 
 ## What's in this Repository?  
 
 **Code**: All the SQL statements and command-line listings
 
-**Data**: CSV, TXT, Excel,PowerShell scripts and other
+**Data**: CSV, txt files, Excel amd PowerShell scripts
 
 **Resources**: Updates to the resource list will be made from time to time and with addition of new ones
 
